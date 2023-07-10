@@ -38,7 +38,7 @@ app.get('/news/:id', (req, res) => {
 
 
 })
-
+no
 
 
 
